@@ -73,11 +73,11 @@ For Windows:
     6. Click OK.
 #### Step 10: Start the Virtual Machine
     1. In VirtualBox, click Start to boot up your Kali Linux virtual machine.
-    
+```    
 <img width="1202" height="770" alt="image" src="https://github.com/user-attachments/assets/547f67e2-49bb-4d60-a5f7-008f4ff3093d" />
 
 
-
+```
 
 
 #### Step 11: Begin Kali Linux Installation
