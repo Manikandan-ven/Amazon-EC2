@@ -2,8 +2,7 @@
 
 # Author
 
-## Name: MANIKANDAN
-
+## Name: MANIKANDAN V
 ## Register Number: 212224230151
 
 ## Objective
@@ -111,7 +110,7 @@ This ensures controlled and secure communication with the instance.
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-
+<img width="1902" height="911" alt="Screenshot 2026-02-24 111106" src="https://github.com/user-attachments/assets/bffca923-9175-4633-bdcc-6a2a002c32a5" />
 
 
 
