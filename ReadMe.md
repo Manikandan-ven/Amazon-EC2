@@ -116,11 +116,13 @@ This ensures controlled and secure communication with the instance.
 
 ### Screenshot 2: SSH Connection to Instance
 
+
 <img width="1908" height="913" alt="Screenshot 2026-02-24 112804" src="https://github.com/user-attachments/assets/b6348737-1220-4a4d-bcb7-17464f00ce52" />
 
 
 
 ### Screenshot 3: Instance Monitoring / Status
+
 
 <img width="1913" height="913" alt="Screenshot 2026-02-24 113120" src="https://github.com/user-attachments/assets/ec71ca48-286f-47eb-9a69-87e41709deb6" />
 
